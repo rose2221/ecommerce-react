@@ -1,4 +1,4 @@
-## Ecommerce like website using React js
+## Ecommerce website using React js
 
 
 ### Built with
