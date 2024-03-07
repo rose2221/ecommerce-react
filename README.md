@@ -3,7 +3,7 @@
 
 ### Built with
 - React js
-- Semantic HTML5 
+- Semantic HTML5 markup
 - CSS3
 
 
